@@ -1,5 +1,5 @@
 # Gestion-de-scolarit-
-Ce projet développer en java m'a demandé de faire en duexième Année Licence, le programme consiste à faire une interface graphique pour la gestion des inscirptions des étudiants L2 et de leurs enseignants.
+Ce projet de développement java m'a demandé de faire la duexième Année Licence, le programme consiste à faire une interface graphique pour la gestion des inscirptions des étudiants L2 et de leurs enseignants.
 Pour cela, l'agent de l'administration commence par s'autentifier sur la platforme avec un login et un
 mot de passe. Si le login correspond à son nom et le mot de passe correspond à son prénom,
 l'identification est effecutée avec succès.
